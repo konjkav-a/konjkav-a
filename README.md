@@ -20,7 +20,6 @@ Hi there 👋
 📫 Let's Connect:
 
 📧 Email: amirkonjkav@gmail.com
-🔗 LinkedIn: Connect with me on LinkedIn
-🌐 Kaggle: Check out my Kaggle profile
-💻 kattis(ACM) : Check out my Rank
+🔗 LinkedIn: https://www.linkedin.com/in/amir-konjkav-7761b350/
+💻 kattis(ACM) : [Check out my Rank](https://open.kattis.com/countries/IRN)**
 
