@@ -8,7 +8,7 @@ Hi there 👋
 
 🌟 About Me:
 
-💻 Python Developer
+💻 Developer
 🎓 I have master degree in computer
 🚀 Love building scalable and efficient applications
 🌱 Learning: Clean Architecture & Microservices  
