@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**konjkav-a/konjkav-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Hi there 👋
 👋 Hello, fellow developers! I'm amir konjkav, a passionate Developer 🚀.
